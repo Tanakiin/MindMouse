@@ -23,5 +23,5 @@ We learned an impressive amount of the OpenCV library as well as Haar Cascading 
 ### What's next for MindMouse
 By possibly developing our own form of Cascading to have a tighter, more sensitive bounding box for the face and eyes to more accurately detect motion and presence. We could also integrate a virtual keyboard once the accuracy was much higher to allow fine input of characters as well. We also had planned mouse acceleration based on the extent of the head tilt or vertical displacement to allow for faster navigation across the screen rather than a static cursor speed.
 
-### Credits
-By: Tanay Reddy and Navya Singh
+### Authors
+Tanay Reddy & Navya Singh
