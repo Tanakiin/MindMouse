@@ -1,6 +1,6 @@
-![MindMouse](https://imgur.com/NQYZPv1)
-# MindMouse
 # Spartahack 8 [2023]
+
+# <img src="https://i.imgur.com/5RgI5ib.png"  width="800%" height="800%" center=left> 
 ### Inspiration
 Computer Vision is widely used as a tool for Object Detection, Identification, and Classification, but we wanted to think of more interactive uses, that could potentially help a part of the community that did not have sufficient resources to effectively access technology. Many apps allow voice recognition or motion tracking to operate a computer but not that many exist that are designed for people who are unable to use all of their limbs. We created MindMouse to solve that issue.
 
