@@ -1,3 +1,4 @@
+![MindMouse](https://imgur.com/NQYZPv1)
 # MindMouse
 # Spartahack 8 [2023]
 ### Inspiration
